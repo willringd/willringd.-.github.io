@@ -1,2 +1,2 @@
-# willringd.-.github.io
+# willringd.github.io
 welcome to ring blog!
